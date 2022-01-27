@@ -80,5 +80,7 @@ public class chapter8 {
 		// returnで終了
 		return number3;
 	}
+	
+	
 
 }
