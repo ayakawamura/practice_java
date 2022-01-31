@@ -1,6 +1,9 @@
 package classMethod.human;
 //パッケージ宣言
 
+import classMethod.human.Human02;
+//インポート文　Human02の決まりを参照する
+
 public class ClassMethod02 {
 	public static void main(String[] args) {
 
