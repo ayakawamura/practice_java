@@ -1,11 +1,10 @@
 package classMethod.human;
 
-import classMethod.human.Human03;
-
 public class ClassMethod03 {
 
 	public static void main(String[] args) {
 		
+		//yamadaという変数名のインスタンス（オブジェクト）を作る(クラス型変数ともいう)
 		Human03 yamada = new Human03();
 		
 		System.out.println("私の名前は、" + yamada.name + "です。");
